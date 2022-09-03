@@ -1,4 +1,4 @@
-package connect.net.sqlite;
+package com.example.stackapp.repository;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

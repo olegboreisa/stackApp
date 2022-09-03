@@ -10,7 +10,7 @@ import static java.util.Objects.requireNonNull;
 
 public class SingUp extends Application {
 
-    private static final String PAGE = "sign-up.fxml";
+    private static final String PAGE = "pages/sign-up.fxml";
     private static Stage window;
 
     @Override

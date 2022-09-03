@@ -33,7 +33,7 @@
             <image>
                <Image url="@IMG/box-png-icon-5.png" />
             </image></ImageView>
-         <Button layoutX="71.0" layoutY="28.0" mnemonicParsing="false" onAction="#shouldPrintAnytext" text="TEST BUTTON" />
+         <Button layoutX="71.0" layoutY="28.0" mnemonicParsing="false" text="TEST BUTTON" />
       </AnchorPane>
    </center>
 </BorderPane>

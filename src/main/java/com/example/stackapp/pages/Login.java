@@ -10,7 +10,7 @@ import static java.util.Objects.requireNonNull;
 
 public class Login extends Application {
 
-    private static final String PAGE = "log-in.fxml";
+    private static final String PAGE = "pages/log-in.fxml";
     private static Stage window;
 
     @Override
